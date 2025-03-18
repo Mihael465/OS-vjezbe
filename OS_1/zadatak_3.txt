@@ -1,0 +1,9 @@
+Zadatak 3
+
+1. mkdir vjezba3 && cd vjezba3
+mkdir backup
+2. touch notes.txt && touch todo.txt && touch script.sh
+3. cp notes.txt <ordedište do backup> && cp todo.txt <odredište do backup> &&  cp script.sh <odredište do backup>
+4. rm script.sh && ls
+5. cd backup && mkdir $USER.
+6. mv notes.txt /mnt/c/Users/Korisnik/desktop/vj3/backup/$USER/ && mv todo.txt <putanja do $USER>

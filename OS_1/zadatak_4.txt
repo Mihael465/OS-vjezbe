@@ -1,0 +1,8 @@
+Zadatak 4
+
+1. mkdir vjezba4 && cd vjezba4
+mkdir subfolder
+2. touch $HOSTNAME
+3. mv $HOSTNAME $USER
+4. mv $USER subfolder
+5. rm  /mnt/c/Korisnik/desktop/vjezba4/subfolder/$USERcd

@@ -1,0 +1,10 @@
+Zadatak 2
+
+1. mkdir vjezba2 
+   cd vjezba2 && touch file.txt 
+2. /mnt/c/Users/Korisnik/desktop/vjezba2$ cp file.txt file_copy.txt
+3. ls vjezba2/
+4. rm file.txt && cd ..
+5. /mnt/c/Users/Korisnik/desktop$ rmdir vjezba2
+rmdir: failed to remove 'vjezba2': Directory not empty 
+Ne moze se izbrisati jer Directory  nije prazan.
